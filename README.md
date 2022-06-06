@@ -26,7 +26,7 @@ L'article se restreint a des covariables continues, le but du projet est d'éten
 
 ### III) Code et Simulation :  
 
-Un code ( non public ) à été réaliser pour générer et estimer des séries de type VINGARCH ainsi que pour faire des simulations dans un contexte d'études cliniques. Des calculs d'ATT avec et sans correction du biais ont été réaliser et coincident avec le cas continu.
+Un code ( non encore publié ) à été réaliser pour générer et estimer des séries de type VINGARCH ainsi que pour faire des simulations dans un contexte d'études cliniques. Des calculs d'ATT avec et sans correction du biais ont été réaliser et coincident avec le cas continu.
 
 ### IV) Illustration :
 
